@@ -1,10 +1,10 @@
 # Desafío - Datos de usuarios
 
-Nombre autoexplicativo del proyecto, con una breve descripción.
+Traer datos de 10 usuarios.
 
 ## Descripción
 
-Una descripción más detallada y técnica del proyecto, incluyendo sus principales características, su propósito y cómo funciona.
+Mediante una API traer 10 usuarios de manera aleatoria, que incluye foto, nombre, correo y número de telefono.
 
 ## Empezando 🚀
 
@@ -20,3 +20,9 @@ Lista de software y herramientas, incluyendo versiones, que necesitas para insta
 
 - Sistema Operativo (por ejemplo, Ubuntu 20.04, Windows 10, MacOS 10.15)
 - Navegador (Firefox, Chrome, Safari)
+
+## Autores
+
+-**Katherine Medina** - https://github.com/Lucyxnira
+
+
